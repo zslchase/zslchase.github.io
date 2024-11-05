@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello here, I'm Zhang senlei 🌏"
 author_profile: true
 redirect_from: 
   - /about/
