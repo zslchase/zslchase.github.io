@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my.jpg"
+  avatar           : "my1.jpg"
   name             : "Senlei Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : ""
   location         : "Wuhan,China"
   employer         : "HUST"
