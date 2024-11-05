@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6824F7&width=435&lines=keep+going+everydady)](https://git.io/typing-svg)
+
+
 
 # 🚀 About me
 
