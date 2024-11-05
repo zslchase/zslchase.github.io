@@ -16,13 +16,9 @@ redirect_from:
 
 # 🔆 Experiences
 
-======
-
 2024.7 - 2024.9, Intern, ICT Compute Product Line, Huawei
 
 # 💡 Competitions
-
-======
 
 2024.5，  **First Prize of the National Finals** ，the Huawei ICT Competition  
 2023.11， **First Prize of the National Finals** ，the global Campus AI Competition  
