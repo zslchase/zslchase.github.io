@@ -7,11 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6824F7&width=435&lines=keep+going+everydady)](https://git.io/typing-svg)
-
-
-
 # 🚀 About me
 
 - 🎓 I am currently a senior at Huazhong University of Science and Technology.
@@ -20,11 +15,14 @@ redirect_from:
 - 🔥 I am going to study for a master's degree in the [CCSIP](http://cciip.cs.hust.edu.cn/index.htm) of Huazhong University of Science and Technology in 2025, where I will be mentored by Prof. [Wei wei](https://www.eric-weiwei.com).
 
 # 🔆 Experiences
+
 ======
 
 2024.7 - 2024.9, Intern, ICT Compute Product Line, Huawei
 
 # 💡 Competitions
+
 ======
+
 2024.5，  **First Prize of the National Finals** ，the Huawei ICT Competition  
 2023.11， **First Prize of the National Finals** ，the global Campus AI Competition  
