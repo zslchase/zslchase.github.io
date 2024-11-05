@@ -22,3 +22,6 @@ redirect_from:
 
 2024.5，  **First Prize of the National Finals** ，the Huawei ICT Competition  
 2023.11， **First Prize of the National Finals** ，the global Campus AI Competition  
+
+---
+![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
