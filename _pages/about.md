@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 🚀 About me
+🚀 About me
 
 - 🎓 I am currently a senior at Huazhong University of Science and Technology.
 - 👀 I major in Computer Science.
