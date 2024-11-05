@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-### 🚀 About
+### 🚀 About me
 
 - 🎓 I am currently a senior at Huazhong University of Science and Technology.
 - 👀 I major in Computer Science.
 - 🔭 I'm currently interested in LLM，such as controllable text generation(CTG).
-- 🔥 I am going to study for a master's degree in the [CCSIP laboratory](http://cciip.cs.hust.edu.cn/index.htm) of Huazhong University of Science and Technology in 2025, where I will be mentored by Prof.[Wei wei](https://www.eric-weiwei.com).
+- 🔥 I am going to study for a master's degree in the [CCSIP](http://cciip.cs.hust.edu.cn/index.htm) of Huazhong University of Science and Technology in 2025, where I will be mentored by Prof. [Wei wei](https://www.eric-weiwei.com).
 
 A data-driven personal website
 ======
